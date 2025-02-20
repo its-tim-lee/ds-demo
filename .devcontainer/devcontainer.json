@@ -1,0 +1,5 @@
+{
+  "name": "My App",
+  "postCreateCommand": "npm install && npm run dev",
+  "forwardPorts": [3000]
+}
