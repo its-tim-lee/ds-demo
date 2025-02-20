@@ -1,4 +1,0 @@
-{
-  "name": "My App",
-  "postCreateCommand": "git pull && npm install && npm run dev"
-}
